@@ -239,14 +239,8 @@ http://<your-ec2-ip>:8081
 ### Jenkins Pipeline
 ![Jenkins](Screenshots/jenkins.png)
 
-### Application
-![App](Screenshots/app.png)
-
-### Grafana Dashboard
-![Grafana](Screenshots/grafana.png)
-
-### SonarQube
-![Sonar](Screenshots/sonarqube.png)
+### Application Live (EKS)
+![App-DNS](Screenshots/app-elb-dns.png)
 
 ### Docker Running Container
 ![Docker](Screenshots/docker.png)
@@ -260,11 +254,11 @@ http://<your-ec2-ip>:8081
 ### Grafana Dashboard
 ![Grafana](Screenshots/grafana1.png)
 
+### SonarQube
+![Sonar](Screenshots/sonarqube.png)
+
 ### AWS EKS Nodes
 ![Nodes](Screenshots/kube-nodes.png)
-
-### Application Live (EKS)
-![App-DNS](Screenshots/app-elb-dns.png)
 
 ---
 
