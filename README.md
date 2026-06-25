@@ -255,7 +255,7 @@ http://<your-ec2-ip>:8081
 ![Grafana](Screenshots/grafana1.png)
 
 ### SonarQube
-![Sonar](Screenshots/sonarqube.png)
+![Sonar](Screenshots/sonar.png)
 
 ### AWS EKS Nodes
 ![Nodes](Screenshots/kube-nodes.png)
